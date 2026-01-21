@@ -1,0 +1,18 @@
+# Day 02 - Python Restart 2026
+# Topic: Data Types, Variables, and Type Checking
+
+name = "Chitra"
+age = 30
+height = 160.5
+is_student = True
+
+print(name)
+print(age)
+print(height)
+print(is_student)
+
+print(type(name))
+print(type(age))
+print(type(height))
+print(type(is_student))
+print ("Day 02")

@@ -1,0 +1,11 @@
+# Day 03 - Python Restart 2026
+# Topic: Control flow using if, elif, else
+
+temperature = 28
+
+if temperature > 30:
+    print("It's a hot day")
+elif temperature >= 20:
+    print("It's a pleasant day")
+else:
+    print("It's a cold day")
